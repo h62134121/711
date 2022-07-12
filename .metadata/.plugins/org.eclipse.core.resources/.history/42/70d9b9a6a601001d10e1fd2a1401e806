@@ -1,0 +1,7 @@
+package cn.jp.test;
+
+public class TestDoWhile {
+   public static void main(String[] args){
+	   
+   }
+}

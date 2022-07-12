@@ -1,0 +1,23 @@
+package cn.jp.test;
+
+public class TestSwitchCase {
+  public static void main(String[] args){ 
+	  char geade = 'c';
+	  
+	  switch(grade)
+	  {
+	  case 'A' :
+		  System.out.println("A");
+		  break;
+	  case 'B' :
+	  case 'C' :
+		  System.out.println("B");
+		  break;
+	  case 'D' :
+		  System.out.println("C");
+		  break;
+	  default:
+		  System.out.println("Œª÷√µ»º∂");
+	  } 
+  }
+}

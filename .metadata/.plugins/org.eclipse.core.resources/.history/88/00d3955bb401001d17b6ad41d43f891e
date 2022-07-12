@@ -1,0 +1,10 @@
+package cn.jp.test;
+
+public class TestSwitchCase {
+  public static void main(String[] args){ 
+	  char geade = "c";
+	  switch(){
+	  case value;
+	  }
+  }
+}

@@ -1,0 +1,11 @@
+package cn.jp.test;
+
+public class TestIfElse {
+  public static void main(){
+	  int x = 9;
+	  
+	  if(x < 10){
+		  System.out.println("ÕâÊÇifÓï¾ä");
+	  }
+  }
+}

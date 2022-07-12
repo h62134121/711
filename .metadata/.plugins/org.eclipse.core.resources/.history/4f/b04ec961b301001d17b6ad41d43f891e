@@ -1,0 +1,13 @@
+package cn.jp.test;
+
+public class TestIfElse {
+  public static void main(String[] args){
+	  int x = 8;
+	  
+	  if(x < 10){
+		  System.out.println("ÕâÊÇifÓï¾ä");
+	  }else if(){
+		  
+	  }
+  }
+}
